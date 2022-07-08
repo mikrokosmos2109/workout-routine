@@ -4,5 +4,4 @@
 
 ### To run this application in your pc, first install the dependecies using npm install and move into backend folder and run "node server.js" and in frontend "npm start".
 
-
-![Screenshot (4)](https://user-images.githubusercontent.com/77429149/178014814-7d1130b3-18fc-4200-937d-305b18c397b5.png)
+![Screenshot (5)](https://user-images.githubusercontent.com/77429149/178015004-59cba0af-0bc8-4938-9706-b31b27289ef9.png)
